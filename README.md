@@ -1,0 +1,1 @@
+HidingNavigationBar.Xamarin.iOS
